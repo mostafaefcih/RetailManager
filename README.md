@@ -1,6 +1,5 @@
 # RetailManager
 this is a  Retail Manager system
-
 Right-Token						| Role							| Group
 --:|:--:|:--
 Auditor-User					|AuditUser						| AuditUser				
@@ -10,7 +9,7 @@ Investigator-Mobile-User		|InvestigatorMobileUser			| InvestigatorMobileUser
 Tracker-User					|TrackerUser					| TrackerUser			
 Tracker-Mobile-User				|TrackerMobileUser				| TrackerMobileUser		
 Recurring-Activities-User		|RecurringActivitiesUser		| RecurringActivitiesUser
-Risk-Intelligence-User			|RiskAssessorUser				| RiskAssessorUser		
-Risk-Assessor-User				|RiskIntelligenceUser			| RiskIntelligenceUser	
+Risk-Intelligence-User			|RiskIntelligenceUser			| RiskIntelligenceUser		
+Risk-Assessor-User				|RiskAssessorUser			    | RiskAssessorUser	
 OII-User						|OIIUser						| OIIUser				
-Portal-User						|PortalUser						| PortalUser	
+Portal-User						|PortalUser						| PortalUser
