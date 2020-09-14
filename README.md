@@ -1,7 +1,17 @@
 # RetailManager
 this is a  Retail Manager system
 
---|--|--
-KMS.RT_WR_QUESTION_RESPONSE|RESPONSE_NUMBER|decimal(19, 4), null
-KMS.IN_INC_CHECKLIST_QUESTION|RESPONSE_NUMBER|decimal(19, 4), null
-KMS.OII_CHECKLIST_QUESTION|RESPONSE_NUMBER|decimal(19, 4), null
+Right-Token						| Role							| Group
+--:|:--:|:--
+--:								|:--						   :|:--
+Auditor-User					|AuditUser						| AuditUser				
+Auditor-Mobile-User				|AuditorMobileUser				| AuditorMobileUser		
+Investigator-User				|InvestigatorUser				| InvestigatorUser		
+Investigator-Mobile-User		|InvestigatorMobileUser			| InvestigatorMobileUser	
+Tracker-User					|TrackerUser					| TrackerUser			
+Tracker-Mobile-User				|TrackerMobileUser				| TrackerMobileUser		
+Recurring-Activities-User		|RecurringActivitiesUser		| RecurringActivitiesUser
+Risk-Intelligence-User			|RiskAssessorUser				| RiskAssessorUser		
+Risk-Assessor-User				|RiskIntelligenceUser			| RiskIntelligenceUser	
+OII-User						|OIIUser						| OIIUser				
+Portal-User						|PortalUser						| PortalUser		
